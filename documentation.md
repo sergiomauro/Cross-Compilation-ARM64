@@ -54,7 +54,3 @@ Now, finally, you can compile your main.cpp file for the ARM64 architecture, inc
 To test the work achieved in the previous steps, you can move the file 'libhelloworld.so' to the '/usr/lib' folder in your file system. Subsequently, transfer the executable 'output_program_arm64' to your file system.
 
 Grant execution permissions to both the shared object and the executable using the command 'chmod u+x filename'. Finally, execute the file on your ARM64 system
-
-
-
-// TO DO
